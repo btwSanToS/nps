@@ -1,3 +1,15 @@
-button{
-    background-color: blueviolet;
+img{
+    height: 60px;
+    width: 60px;
+}
+.header{
+    align-items: center;
+    background-color: var(--primary-color);
+    display: flex;
+    justify-content: center;
+    height: 124px;
+}
+.full-height{
+    height: 90vh;
+    transition: all ease-in-out 1s;
 }
