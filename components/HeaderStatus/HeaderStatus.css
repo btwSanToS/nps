@@ -6,8 +6,9 @@ img{
     align-items: center;
     background-color: var(--primary-color);
     display: flex;
-    justify-content: center;
     height: 124px;
+    justify-content: center;
+    transition: all ease-in-out 1s;
 }
 .full-height{
     height: 90vh;
